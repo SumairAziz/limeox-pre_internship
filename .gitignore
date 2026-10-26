@@ -1,0 +1,27 @@
+```gitignore
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies and virtual environments
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# Python compiled files
+*.pyc
+
+# Data and text files (all directories)
+*.csv
+*.xlsx
+*.txt
+```
+*.csv
+*.log
+news_urls_scraped*.txt
+
+*.csv
+*.log
+news_urls_scraped*.txt
