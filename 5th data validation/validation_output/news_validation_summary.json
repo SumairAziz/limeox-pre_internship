@@ -1,0 +1,13 @@
+{
+  "input_rows": 78120,
+  "input_columns": 11,
+  "total_issues": 0,
+  "affected_rows": 0,
+  "issues_by_severity": {},
+  "issues_by_rule": {},
+  "dispositions": {
+    "accept": 78120,
+    "warning": 0,
+    "quarantine": 0
+  }
+}
